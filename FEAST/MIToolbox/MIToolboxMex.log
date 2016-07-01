@@ -1,0 +1,584 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=mex 2011.7.3)  6 JAN 2015 17:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MIToolboxMex.c MutualInformation.c Entropy.c CalculateProbability.c ArrayOper
+ations.c
+(./MIToolboxMex.c
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+
+Overfull \hbox (48.9948pt too wide) in paragraph at lines 1--26
+\tenrm TLAB/OCTAVE script. ** ** Co-py-ri-ght 2010 Adam Po-cock, The Uni-ver-si
+ty Of Man-che-ster ** www.cs.manchester.ac.uk|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm T
+.\tenrm L
+.\tenrm A
+.\tenrm B
+.\tenrm /
+.etc.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.27 #
+      include "MIToolbox.h"
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.28 #
+      include "ArrayOperations.h"
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.29 #
+      include "CalculateProbability.h"
+? q
+OK, entering \batchmode...
+! You can't use `macro parameter character #' in horizontal mode.
+l.30 #
+      include "Entropy.h"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.31 #
+      include "MutualInformation.h"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (9.05157pt too wide) in paragraph at lines 27--32
+[]\tenrm include "MI-To-ol-box.h" in-c-lude "Ar-ray-Ope-ra-tions.h" in-c-lude "
+Cal-cu-la-te-Pro-ba-bi-lity.h" in-c-lude "En-tropy.h"|
+
+\hbox(6.88889+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm i
+.\tenrm n
+.\tenrm c
+.\tenrm l
+.etc.
+
+
+Overfull \hbox (1.663pt too wide) in paragraph at lines 33--48
+[]\tenrm /*********************************************************************
+********** **en-try po-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm /
+.\tenrm *
+.\tenrm *
+.\tenrm *
+.etc.
+
+
+Overfull \hbox (76.30205pt too wide) in paragraph at lines 33--48
+\tenrm **prhs - po-in-ter to ar-ray of in-puts ********************************
+***********************************************/|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm *
+.\tenrm *
+.\tenrm p
+.\tenrm r
+.\tenrm h
+.etc.
+
+
+Overfull \hbox (254.99689pt too wide) in paragraph at lines 33--48
+\tenrm void me-xFunc-tion(int nlhs, mxAr-ray *plhs[], int nrhs, const mxAr-ray 
+*prhs[])  /********************************************************************
+*********|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm v
+.\kern-0.27779
+.\tenrm o
+.\tenrm i
+.\tenrm d
+.etc.
+
+
+Overfull \hbox (65.60764pt too wide) in paragraph at lines 33--48
+\tenrm an en-tropy or mu-tual in-for-ma-tion **********************************
+*******************************************/ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm a
+.\tenrm n
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm e
+.\discretionary replacing 2
+..\tenrm n
+..\tenrm -
+.etc.
+
+! Undefined control sequence.
+l.62 ...tf("Incorrect number of output arguments\n
+                                                  ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.69 ...bability(X), merge(X), normaliseArray(X)\n
+                                                  ");*/
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.74 ...), calculateJointProbability(XY), I(X;Y)\n
+                                                  ");*/
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.79         /*printf("Must be I(X;Y|Z)\n
+                                         ");*/
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.84 ..., format is MIToolbox(\"FLAG\",varargin)\n
+                                                  ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (11.35713pt too wide) in paragraph at lines 60--88
+\tenrm /*printf("Must be H(XY), H(X|Y), cal-cu-la-te-Jo-int-Pro-ba-bi-lity(XY),
+ I(X;Y)");*/ break;  case 4:  /*printf("Must|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm /
+.\tenrm *
+.\tenrm p
+.\tenrm r
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (25.95438pt too wide) in paragraph at lines 60--88
+\tenrm be I(X;Y|Z)");*/ break;  de-fault:  printf("Incorrect num-ber of ar-gu-m
+ents, for-mat is MI-To-ol-box([]FLAG[],varargin)");|
+
+\hbox(9.26193+3.25)x469.75499, glue set - 1.0
+.\tenrm b
+.\kern0.27779
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm I
+.etc.
+
+
+Overfull \hbox (40.85724pt too wide) in paragraph at lines 116--120
+[]\tenrm plhs[0] = mxCre-ate-Do-uble-Ma-trix(state.numStates,1,mxREAL); plhs[1]
+ = mxCre-ate-Do-uble-Ma-trix(1,1,mxREAL);|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm p
+.\tenrm l
+.\tenrm h
+.\tenrm s
+.etc.
+
+
+Overfull \hbox (32.41286pt too wide) in paragraph at lines 142--154
+\tenrm mxCre-ate-Do-uble-Ma-trix(1,1,mxREAL); plhs[4] = mxCre-ate-Do-uble-Ma-tr
+ix(jointState.numSecondStates,1,mxREAL);|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm m
+.\tenrm x
+.\tenrm C
+.\tenrm r
+.\tenrm e
+.etc.
+
+ [1]
+! Misplaced alignment tab character &.
+l.196         if ((numberOfFeatures > 0) &
+                                          & (numberOfSamples > 0))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.196         if ((numberOfFeatures > 0) &&
+                                            (numberOfSamples > 0))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (90.03786pt too wide) in paragraph at lines 191--200
+\tenrm rO-fSam-ples > 0))  ma-trix = (do-uble *) mxGetPr(prhs[1]); mer-ge-dVec-
+tor = (do-uble *) mxCal-loc(numberOfSamples,sizeof(double)); |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm r
+.\tenrm O
+.\discretionary
+..\tenrm -
+.\tenrm f
+.\tenrm S
+.etc.
+
+
+Overfull \hbox (3.78773pt too wide) in paragraph at lines 201--203
+[]\tenrm plhs[0] = mxCre-ate-Do-uble-Ma-trix(numberOfSamples,1,mxREAL); out-put
+ = (do-uble *)mxGetPr(plhs[0]); |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm p
+.\tenrm l
+.\tenrm h
+.\tenrm s
+.etc.
+
+! Misplaced alignment tab character &.
+l.217         if ((numberOfFeatures > 0) &
+                                          & (numberOfSamples > 0))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.217         if ((numberOfFeatures > 0) &&
+                                            (numberOfSamples > 0))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (33.28772pt too wide) in paragraph at lines 220--222
+[]\tenrm matrix = (do-uble *) mxGetPr(prhs[1]); mer-ge-dVec-tor = (do-uble *) m
+xCal-loc(numberOfSamples,sizeof(double)); |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm m
+.\tenrm a
+.\tenrm t
+.\tenrm r
+.etc.
+
+! Undefined control sequence.
+l.244 ...ied. More states in data than specified\n
+                                                  ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.253 ...eatures, arities should be a row vector\n
+                                                  ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.278         printf("No columns in input\n
+                                           ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.302       if ((numberOfFeatures == 1) &
+                                         & (checkFeatures == 1))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.302       if ((numberOfFeatures == 1) &&
+                                           (checkFeatures == 1))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.304         if ((numberOfSamples == 0) &
+                                          & (checkSamples == 0))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.304         if ((numberOfSamples == 0) &&
+                                            (checkSamples == 0))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.323 ...not match, they must be the same length\n
+                                                  ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.329         printf("No columns in input\n
+                                           ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (27.3849pt too wide) in paragraph at lines 302--332
+\tenrm 0))  *out-put = 0.0;  else if (num-be-rO-fSam-ples == 0)  *out-put = cal
+-cu-la-te-En-tropy(secondVector,numberOfSamples);|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm 0
+.\tenrm )
+.\tenrm )
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+! Misplaced alignment tab character &.
+l.352       if ((numberOfFeatures == 1) &
+                                         & (checkFeatures == 1))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.352       if ((numberOfFeatures == 1) &&
+                                           (checkFeatures == 1))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.369 ...not match, they must be the same length\n
+                                                  ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.375         printf("No columns in input\n
+                                           ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+ [2]
+! Misplaced alignment tab character &.
+l.397       if ((numberOfFeatures == 1) &
+                                         & (checkFeatures == 1))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.397       if ((numberOfFeatures == 1) &&
+                                           (checkFeatures == 1))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.410 ...not match, they must be the same length\n
+                                                  ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.416         printf("No columns in input\n
+                                           ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (50.03763pt too wide) in paragraph at lines 430--433
+[]\tenrm numberOfFeatures = mxGetN(prhs[1]); check-Fe-atu-res = mxGetN(prhs[2])
+; third-Check-Fe-atu-res = mxGetN(prhs[3]); |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm n
+.\kern-0.27779
+.\tenrm u
+.\tenrm m
+.etc.
+
+! Misplaced alignment tab character &.
+l.441       if ((numberOfFeatures == 1) &
+                                         & (checkFeatures == 1))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.441       if ((numberOfFeatures == 1) &&
+                                           (checkFeatures == 1))
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.451 ...e if ((numberOfSamples == checkSamples) &
+                                                  & (numberOfSamples == thir...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.451 ... if ((numberOfSamples == checkSamples) &&
+                                                   (numberOfSamples == third...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.458 ...not match, they must be the same length\n
+                                                  ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.464         printf("No columns in input\n
+                                           ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (50.55173pt too wide) in paragraph at lines 479--483
+[]\tenrm plhs[0] = mxCre-ate-Do-uble-Ma-trix(numberOfSamples,1,mxREAL); plhs[1]
+ = mxCre-ate-Do-uble-Ma-trix(1,1,mxREAL);|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm p
+.\tenrm l
+.\tenrm h
+.\tenrm s
+.etc.
+
+! Undefined control sequence.
+l.496       printf("Unrecognised flag\n
+                                       ");
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (14.8293pt too wide) in paragraph at lines 492--500
+[]\tenrm break; /*case 9 - nor-ma-li-se-Ar-ray*/ de-fault:  printf("Unrecognise
+d flag"); break; /*de-fault*/ /*switch(flag)*/ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm b
+.\tenrm r
+.\tenrm e
+.\tenrm a
+.etc.
+
+)
+! Emergency stop.
+<*> ....c CalculateProbability.c ArrayOperations.c
+                                                  
+*** (job aborted, no legal \end found)
+
+Output written on MIToolboxMex.dvi (2 pages, 11644 bytes).

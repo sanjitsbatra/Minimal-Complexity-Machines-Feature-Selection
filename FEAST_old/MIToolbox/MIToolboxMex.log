@@ -1,0 +1,18 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=mex 2011.7.3)  6 JAN 2015 17:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MIToolboxMex.c MutualInformation.c Entropy.c CalculateProbability.c ArrayOper
+ations.c
+(./MIToolboxMex.c
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+! You can't use `macro parameter character #' in horizontal mode.
+l.26 #
+      include "MIToolbox.h"
+? 
+! Emergency stop.
+l.26 #
+      include "MIToolbox.h"
+End of file on the terminal!
+
+No pages of output.
